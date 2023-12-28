@@ -1,12 +1,12 @@
 data = [{
-    'img1' : 'flop with watermelon.jpg',
-    'img2' : 'pringles floppa.jpg', 
+    'img1' : 'Asset/flop with watermelon.jpg',
+    'img2' : 'Asset/pringles floppa.jpg', 
     'title' : 'Web E-Commerce', 
     'subtitle' : 'Zenit',
     'desc' : 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus quos, consequuntur accusantium nihil, nulla, quibusdam voluptas aliquam accusamus dolorem est voluptate deserunt. Repellat tempore, fugit eum fuga et quae laudantium!'
 }, {
-    'img1' : 'flop with watermelon.jpg',
-    'img2' : 'pringles floppa.jpg', 
+    'img1' : '/Asset/flop with watermelon.jpg',
+    'img2' : 'Asset/pringles floppa.jpg', 
     'title' : 'Web E-Commerce', 
     'subtitle' : 'Zenit',
     'desc' : 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus quos, consequuntur accusantium nihil, nulla, quibusdam voluptas aliquam accusamus dolorem est voluptate deserunt. Repellat tempore, fugit eum fuga et quae laudantium!'
