@@ -321,9 +321,10 @@ nav{
 
 .footer {
     background-color: #5D3587;
-    padding: 120px 0px 40px;
+    padding: 120px 0px 40px auto;
     text-align: center;
     color: #ffffff;
+    width: 100%;
 }
 
 .footer h1,
